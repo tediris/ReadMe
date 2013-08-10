@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res" >
+            <file
+                name="card"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable\card.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="grey_background_cardbank"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable\grey_background_cardbank.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectable_background_cardbank"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable\selectable_background_cardbank.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_collapse"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_action_collapse.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_expand"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_action_expand.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_action_overflow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_action_settings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_collapse"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_action_collapse.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_expand"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_action_expand.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_action_overflow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_action_settings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="card_background"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\card_background.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="card_background_shadow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\card_background_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="card_shadow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\card_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_collapse"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_collapse.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_expand"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_expand.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_overflow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_overflow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_settings"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_action_settings.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="top_shadow"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\top_shadow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="url1"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\url1.jpeg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="url2"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\url2.jpeg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="url3"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xhdpi\url3.jpeg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="cards_view"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\cards_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="cards_view_multicolumn"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\cards_view_multicolumn.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_base"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\card_base.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_ex"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\card_ex.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_menu_layout"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\card_menu_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_picture"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\card_picture.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="card_play"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\card_play.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="feed_layout"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\feed_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="footer_fragment"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\footer_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="header"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_card"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\item_card.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_card_empty_first"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\item_card_empty_first.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_card_empty_last"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\item_card_empty_last.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_play_card_empty_first"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\item_play_card_empty_first.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_stack"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\item_stack.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="launcher_activity"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\launcher_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="read_layout"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\read_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\activity_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="feed"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\feed.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\launcher.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="quilt_launcher"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\quilt_launcher.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="read"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\read.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="QuiltView" >
+                    <attr
+                        name="scrollOrientation"
+                        format="string" />
+                    <attr
+                        name="childPadding"
+                        format="integer" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="grey" >#7c7c7c
+                </color>
+                <color name="card_title_text" >#ff707070
+                </color>
+                <color name="card_grid_text" >#ff707070
+                </color>
+                <color name="card_text" >#ff8d8d8d
+                </color>
+                <color name="green" >#4ac925
+                </color>
+                <color name="golden" >#f2a400
+                </color>
+                <color name="skyblue" >#00d5f2
+                </color>
+                <color name="card_border" >#ffdedede
+                </color>
+                <color name="text_light" >#66000000
+                </color>
+                <color name="red" >#e00707
+                </color>
+                <color name="card_separator" >#ffe5e5e5
+                </color>
+                <color name="stroke" >#dddddd
+                </color>
+                <color name="holoblue" >#ff33b6ea
+                </color>
+                <color name="card_light_text" >#ffb5b5b5
+                </color>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="high_confidence_answer_card_image_width" >160.0dip
+                </dimen>
+                <dimen name="card_temperature_size" >90.0dip
+                </dimen>
+                <dimen name="card_spacer_margin" >8.0dip
+                </dimen>
+                <dimen name="web_snapshots_text_size" >30.0dip
+                </dimen>
+                <dimen name="summons_height" >56.0dip
+                </dimen>
+                <dimen name="suggestion_view_height" >64.0dip
+                </dimen>
+                <dimen name="indicator_stroke" >2.0dip
+                </dimen>
+                <dimen name="websearch_card_top_margin" >0.0dip
+                </dimen>
+                <dimen name="small_units_4" >12.0dip
+                </dimen>
+                <dimen name="suggest_summons_area_padding" >0.0dip
+                </dimen>
+                <dimen name="small_units_2" >6.0dip
+                </dimen>
+                <dimen name="ime_title_text_size" >14.0sp
+                </dimen>
+                <dimen name="small_units_3" >9.0dip
+                </dimen>
+                <dimen name="table_row_vertical_padding" >8.0dip
+                </dimen>
+                <dimen name="app_icon_area_height" >120.0dip
+                </dimen>
+                <dimen name="summons_width" >350.0dip
+                </dimen>
+                <dimen name="dialog_pos_left" >0.0dip
+                </dimen>
+                <dimen name="card_small_text" >14.0sp
+                </dimen>
+                <dimen name="card_padding" >16.0dip
+                </dimen>
+                <dimen name="ime_padding_bottom" >8.0dip
+                </dimen>
+                <dimen name="dialog_corner_radius" >8.0px
+                </dimen>
+                <dimen name="card_medium_text" >18.0sp
+                </dimen>
+                <dimen name="action_bar_switch_padding" >16.0dip
+                </dimen>
+                <dimen name="main_fragment_top_padding" >0.0dip
+                </dimen>
+                <dimen name="image_result_carousel_height" >300.0dip
+                </dimen>
+                <dimen name="local_results_item_margin" >@dimen/card_minimum_padding
+                </dimen>
+                <dimen name="map_preview_image_width" >320.0dip
+                </dimen>
+                <dimen name="units_2" >32.0dip
+                </dimen>
+                <dimen name="gmail_card_button_height" >40.0dip
+                </dimen>
+                <dimen name="units_3" >48.0dip
+                </dimen>
+                <dimen name="units_4" >64.0dip
+                </dimen>
+                <dimen name="stock_price_padding" >32.0dip
+                </dimen>
+                <dimen name="corpus_selector_element_margin" >5.0dip
+                </dimen>
+                <dimen name="google_logo_margin_right" >4.0dip
+                </dimen>
+                <dimen name="first_run_context_image_height" >100.0dip
+                </dimen>
+                <dimen name="preview_image_width" >120.0dip
+                </dimen>
+                <dimen name="websearch_collapse_card_padding_offscreen_leeway" >50.0dip
+                </dimen>
+                <dimen name="large_preview_width" >800.0dip
+                </dimen>
+                <dimen name="context_header_padding" >0.0dip
+                </dimen>
+                <dimen name="search_box_width" >0.0dip
+                </dimen>
+                <dimen name="preview_image_size" >250.0dip
+                </dimen>
+                <dimen name="google_header_margin_bottom" >12.0dip
+                </dimen>
+                <dimen name="contact_avatar_height" >148.0dip
+                </dimen>
+                <dimen name="card_action_button_height" >48.0dip
+                </dimen>
+                <dimen name="max_preview_area_width" >0.0dip
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="hands_free_small_padding" >8.0dip
+                </dimen>
+                <dimen name="ime_port_height" >240.0dip
+                </dimen>
+                <dimen name="summons_inter_source_padding" >20.0dip
+                </dimen>
+                <dimen name="suggest_web_height" >56.0dip
+                </dimen>
+                <dimen name="control_size" >48.0dip
+                </dimen>
+                <dimen name="indicator_size" >88.0dip
+                </dimen>
+                <dimen name="sports_card_image_width" >37.0dip
+                </dimen>
+                <dimen name="playpausebutton_size" >60.0dip
+                </dimen>
+                <dimen name="auto_scroll_padding" >30.0dip
+                </dimen>
+                <dimen name="text_block_top_padding" >14.0dip
+                </dimen>
+                <dimen name="web_snapshots_dismiss_from_offset" >150.0dip
+                </dimen>
+                <dimen name="card_minimum_padding" >8.0dip
+                </dimen>
+                <dimen name="at_place_card_content_height" >150.0dip
+                </dimen>
+                <dimen name="local_result_vertical_divider_height" >20.0dip
+                </dimen>
+                <dimen name="action_confirm_button_margin" >16.0dip
+                </dimen>
+                <dimen name="ime_mic_size" >112.0dip
+                </dimen>
+                <dimen name="suggestion_large_image_max_height" >640.0dip
+                </dimen>
+                <dimen name="stock_chart_width" >350.0dip
+                </dimen>
+                <dimen name="hint_bubble_offset" >-15.0dip
+                </dimen>
+                <dimen name="web_snapshots_just_added_extra_height" >150.0dip
+                </dimen>
+                <dimen name="horizontal_static_map_height" >150.0dip
+                </dimen>
+                <dimen name="correction_popup_width_2buttons" >120.0dip
+                </dimen>
+                <dimen name="searchResultListItemHeight" >58.0dip
+                </dimen>
+                <dimen name="sample_card_width" >375.0dip
+                </dimen>
+                <dimen name="weather_current_icon_height" >64.0dip
+                </dimen>
+                <dimen name="web_snapshots_width" >600.0dip
+                </dimen>
+                <dimen name="divider_height" >1.0dip
+                </dimen>
+                <dimen name="web_suggestion_icon_size" >32.0dip
+                </dimen>
+                <dimen name="image_result_height" >100.0dip
+                </dimen>
+                <dimen name="summons_padding" >2.0dip
+                </dimen>
+                <dimen name="cards_padding_inbetween" >10.0dip
+                </dimen>
+                <dimen name="retry_button_size" >48.0dip
+                </dimen>
+                <dimen name="hands_free_padding" >12.0dip
+                </dimen>
+                <dimen name="correction_popup_width_3buttons" >160.0dip
+                </dimen>
+                <dimen name="stock_chart_height" >180.0dip
+                </dimen>
+                <dimen name="first_run_padding" >24.0dip
+                </dimen>
+                <dimen name="corpus_bar_vertical_padding" >5.0dip
+                </dimen>
+                <dimen name="map_preview_image_height" >180.0dip
+                </dimen>
+                <dimen name="voice_popup_margin" >40.0dip
+                </dimen>
+                <dimen name="corpus_bar_more_padding" >24.0dip
+                </dimen>
+                <dimen name="suggestion_icon1_left_padding" >2.0dip
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="half_unit" >8.0dip
+                </dimen>
+                <dimen name="suppressed_web_results_min_visible_height" >28.0dip
+                </dimen>
+                <dimen name="histogram_bar_padding" >0.0dip
+                </dimen>
+                <dimen name="suggestion_icon_size" >64.0dip
+                </dimen>
+                <dimen name="card_action_small_text" >12.0sp
+                </dimen>
+                <dimen name="cards_max_column_width" >446.0dip
+                </dimen>
+                <dimen name="ime_spinner_text" >14.0dip
+                </dimen>
+                <dimen name="search_plate_icon_height" >34.0dip
+                </dimen>
+                <dimen name="suggestion_large_image_max_width" >640.0dip
+                </dimen>
+                <dimen name="sticky_height" >120dp
+                </dimen>
+                <dimen name="photo_crop_width" >280.0dip
+                </dimen>
+                <dimen name="search_device_footer_bottom_margin" >12.0dip
+                </dimen>
+                <dimen name="min_height_background_image" >138.0dip
+                </dimen>
+                <dimen name="card_xl_text" >35.0sp
+                </dimen>
+                <dimen name="suggestion_footer_view_height" >48.0dip
+                </dimen>
+                <dimen name="widget_margin_top_bottom" >8.0dip
+                </dimen>
+                <dimen name="footer_height" >50.0dip
+                </dimen>
+                <dimen name="search_plate_height" >70.0dip
+                </dimen>
+                <dimen name="webview_margin_left" >60.0dip
+                </dimen>
+                <dimen name="photo_crop_stroke_width" >1.0dip
+                </dimen>
+                <dimen name="suggestions_divider_margin_left_right" >8.0dip
+                </dimen>
+                <dimen name="cards_padding_inbetween_adjusted" >9.0dip
+                </dimen>
+                <dimen name="max_waveform_height" >100.0dip
+                </dimen>
+                <dimen name="local_results_map_height" >180.0dip
+                </dimen>
+                <dimen name="corpus_selector_text_size" >15.0sp
+                </dimen>
+                <dimen name="negative_unit" >-16.0dip
+                </dimen>
+                <dimen name="search_plate_expand_threshold" >360.0dip
+                </dimen>
+                <dimen name="suggestion_text_padding" >16.0dip
+                </dimen>
+                <dimen name="search_plate_minimum_padding" >12.0dip
+                </dimen>
+                <dimen name="search_plate_icon_width" >32.0dip
+                </dimen>
+                <dimen name="card_action_text" >16.0sp
+                </dimen>
+                <dimen name="recording_popup_size" >170.0dip
+                </dimen>
+                <dimen name="web_suggestion_view_height" >48.0dip
+                </dimen>
+                <dimen name="websearch_header_left_padding" >16.0dip
+                </dimen>
+                <dimen name="unit_small_caps" >14.0dip
+                </dimen>
+                <dimen name="dialog_text_size" >18.0sp
+                </dimen>
+                <dimen name="text_block_side_padding" >@dimen/card_padding
+                </dimen>
+                <dimen name="suggest_web_padding" >2.0dip
+                </dimen>
+                <dimen name="max_height_for_fullscreen" >2.5in
+                </dimen>
+                <dimen name="weather_forecast_icon_height" >24.0dip
+                </dimen>
+                <dimen name="widget_margin_left_right" >8.0dip
+                </dimen>
+                <dimen name="card_large_text" >25.0sp
+                </dimen>
+                <dimen name="web_snapshots_default_visible_width" >300.0dip
+                </dimen>
+                <dimen name="extra_height_to_account_for_system_space_in_landscape" >0.0dip
+                </dimen>
+                <dimen name="mic_height" >84.0dip
+                </dimen>
+                <dimen name="card_horizontal_map_height" >150.0dip
+                </dimen>
+                <dimen name="app_icon_area_width" >120.0dip
+                </dimen>
+                <dimen name="intent_api_mic_area_size" >145.0dip
+                </dimen>
+                <dimen name="ime_padding_top" >8.0dip
+                </dimen>
+                <dimen name="search_bar_padding" >8.0dip
+                </dimen>
+                <dimen name="dialog_pos_top" >0.0dip
+                </dimen>
+                <dimen name="default_gap" >16dip
+                </dimen>
+                <dimen name="text_block_bottom_padding" >20.0dip
+                </dimen>
+                <dimen name="corpus_selector_horizontal_margin" >8.0dip
+                </dimen>
+                <dimen name="contact_avatar_width" >148.0dip
+                </dimen>
+                <dimen name="dialog_width" >320.0dip
+                </dimen>
+                <dimen name="tidbit_padding" >12.0dip
+                </dimen>
+                <dimen name="corpus_bar_left_padding" >12.0dip
+                </dimen>
+                <dimen name="histogram_width" >100.0dip
+                </dimen>
+                <dimen name="min_preview_area_width" >0.0dip
+                </dimen>
+                <dimen name="histogram_bar_size" >16.0dip
+                </dimen>
+                <dimen name="dialog_height" >320.0dip
+                </dimen>
+                <dimen name="image_view_padding" >5.0dip
+                </dimen>
+                <dimen name="photo_preview_size" >200.0dip
+                </dimen>
+                <dimen name="websearch_fragment_inbetween_padding" >12.0dip
+                </dimen>
+                <dimen name="contact_select_fragment_padding" >8.0dip
+                </dimen>
+                <dimen name="web_snapshots_launch_browser_from_offset" >300.0dip
+                </dimen>
+                <dimen name="suggestion_view_height_large" >191.5dip
+                </dimen>
+                <dimen name="suggestions_padding" >8.0dip
+                </dimen>
+                <dimen name="suggestion_text2_height" >26.0dip
+                </dimen>
+                <dimen name="card_small_padding" >12.0dip
+                </dimen>
+                <dimen name="preview_image_height" >120.0dip
+                </dimen>
+                <dimen name="speak_now_speech_height" >200.0dip
+                </dimen>
+                <dimen name="small_unit" >3.0dip
+                </dimen>
+                <dimen name="load_more_button_margin" >40.0dip
+                </dimen>
+                <dimen name="sports_card_image_height" >21.0dip
+                </dimen>
+                <dimen name="card_grid_font_size" >14.0sp
+                </dimen>
+                <dimen name="unit" >16.0dip
+                </dimen>
+                <dimen name="ime_state_text_size" >20.0sp
+                </dimen>
+                <dimen name="header_footer_size" >48.0dip
+                </dimen>
+                <dimen name="ime_land_height" >180.0dip
+                </dimen>
+                <dimen name="ime_button_text_size" >14.0sp
+                </dimen>
+                <dimen name="high_confidence_answer_card_image_height" >300.0dip
+                </dimen>
+                <dimen name="correction_popup_width_1buttons" >60.0dip
+                </dimen>
+                <dimen name="high_confidence_answer_card_min_spacing" >28.0dip
+                </dimen>
+                <dimen name="search_bar_text_size" >16.0sp
+                </dimen>
+                <dimen name="google_logo_margin_left" >4.0dip
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_main" >CardsUI
+                </string>
+                <string name="title_activity_quilt_launcher" >Quilt Activity
+                </string>
+                <string name="RSS_KEY" >RSSFeeds
+                </string>
+                <string name="create_card" >Create Card
+                </string>
+                <string name="new_card_subtitle" >Tap here to select all the parameters for your new card
+                </string>
+                <string name="title_activity_feed" >Feed Activity
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="to_last_stack" >Add to last stack
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+                <string name="search_action" >Search
+                </string>
+                <string name="clickable" >Clickable
+                </string>
+                <string name="color_stripe" >Color Stripe
+                </string>
+                <string name="title_activity_read" >Read Activity
+                </string>
+                <string name="desc" >Description
+                </string>
+                <string name="card_title" >Card Title
+                </string>
+                <string name="stack_title" >Stack Title
+                </string>
+                <string name="card_desc" >Card Description
+                </string>
+                <string name="stripe_color" >Stripe Color
+                </string>
+                <string name="title_activity_start" >Start Activity
+                </string>
+                <string name="enter_color" >Enter the hex value of a color
+                </string>
+                <string name="title" >Title
+                </string>
+                <string name="app_name" >ReadMe
+                </string>
+                <string name="new_card" >Create a New Card
+                </string>
+                <string name="overflow" >Menu Overflow
+                </string>
+
+                <string-array name="cards_type_array" >
+                    <item>
+Google Play Card
+                    </item>
+                    <item>
+Google Now Card
+                    </item>
+                    <item>
+Google Now Image Card
+                    </item>
+                    <item>
+Stack
+                    </item>
+                </string-array>
+
+                <string name="title_color" >Title Color
+                </string>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="Item.Sticky" >
+                    <item name="android:background">
+#eeeeee
+                    </item>
+                    <item name="android:layout_height">
+@dimen/sticky_height
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style name="Item" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+300dp
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="CardTitle"
+                    parent="@style/CardText" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textSize">
+@dimen/card_large_text
+                    </item>
+                    <item name="android:textColor">
+@color/card_title_text
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                </style>
+
+                <style
+                    name="CardTitleBold"
+                    parent="@style/CardText" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textSize">
+@dimen/card_large_text
+                    </item>
+                    <item name="android:textColor">
+@color/card_title_text
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif
+                    </item>
+                </style>
+
+                <style name="CardText" >
+                    <item name="android:textSize">
+@dimen/card_small_text
+                    </item>
+                    <item name="android:textColor">
+@color/card_text
+                    </item>
+                    <item name="android:ellipsize">
+end
+                    </item>
+                    <item name="android:maxLines">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="CardLightText"
+                    parent="@style/CardText" >
+                    <item name="android:textColor">
+@color/card_light_text
+                    </item>
+                </style>
+
+                <style name="Item.Top" >
+                    <item name="android:background">
+#eeeeee
+                    </item>
+                </style>
+
+                <style
+                    name="StackTitle"
+                    parent="@style/CardText" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textSize">
+27sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textColor">
+@color/card_title_text
+                    </item>
+                    <item name="android:fontFamily">
+sans-serif
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="start"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\menu\start.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="start_activity"
+                path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\main\res\layout\start_activity.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\tmediris\AndroidStudioProjects\ReadMeProject\ReadMe\src\debug\res" />
+    </dataSet>
+
+</merger>
